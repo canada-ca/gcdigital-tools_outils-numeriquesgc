@@ -6,7 +6,7 @@
 
 ([Website version of the GCDigital Tools](https://canada-ca.github.io/digital-playbook-guide-numerique/en/overview.html))
 
-Provides practical tools and guidance to assist the Government of Canada in digital transformation and augmented service delivery, including becoming more agile, open and user-focused. Includes task-specific views and interactive features/
+Provides practical tools and guidance to assist the Government of Canada in digital transformation and augmented service delivery, including becoming more agile, open and user-focused. Includes task-specific views and interactive features.
 
 ## GCDigital Tools views
 
