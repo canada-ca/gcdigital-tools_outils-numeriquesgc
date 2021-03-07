@@ -18,8 +18,7 @@ Provides practical tools and guidance to assist the Government of Canada in digi
 
 ### Artificial Intelligence (AI) views
 
-- [Algorithmic Impact Assessment (Archived)](https://canada-ca.github.io/digital-playbook-guide-numerique/views-vues/automated-decision-automatise/en/algorithmic-impact-assessment.html)
-- [How should I implement an Automated Decision System? (draft)](https://canada-ca.github.io/digital-playbook-guide-numerique/views-vues/automated-decision-automatise/en/automated-decision.html)
+- [Algorithmic Impact Assessment (Archived)](https://canada-ca.github.io/aia-eia-js/)
 
 ### Cloud views
 
@@ -54,8 +53,7 @@ Les [vues des outils numériqueGC](https://canada-ca.github.io/digital-playbook-
 
 ### Vues basées sur l'intelligence artificielle (IA)
 
-- [Évaluation d'impact algorithmique (Archivée)](https://canada-ca.github.io/digital-playbook-guide-numerique/views-vues/automated-decision-automatise/fr/evaluation-impact-algorithmique.html)
-- [Comment dois-je mettre en place un système de décision automatisé? (ébauche)](https://canada-ca.github.io/digital-playbook-guide-numerique/views-vues/automated-decision-automatise/fr/decision-automatise.html)
+- [Évaluation d'impact algorithmique)](https://canada-ca.github.io/aia-eia-js/?lang=fr)
 
 ### Vues basées sur l'informatique en nuage
 
