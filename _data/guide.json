@@ -1,6 +1,6 @@
 {
-  "$schema": "https://raw.githubusercontent.com/canada-ca/digital-playbook-guide-numerique/master/_data/guide_schema.json",
-  "title": "Guide numérique du gouvernement du Canada (ébauche)",
+  "$schema": "https://raw.githubusercontent.com/canada-ca/gcdigital-tools_outils-numeriquesgc/master/_data/guide_schema.json",
+  "title": "Outils numérique du gouvernement du Canada (ébauche)",
   "introduction": {
     "title": "Aperçu (ébauche)",
     "tags": [
@@ -19,7 +19,7 @@
             "tags": [
               "dpgn-overview-start"
             ],
-            "content": "Fournit des conseils pratiques et détaillés pour aider le gouvernement du Canada dans la transformation numérique et la prestation de services accrue, y compris en devenant plus agile, ouvert et axé sur l'utilisateur. Inclut des vues spécifiques aux tâches et des fonctions interactives pour faciliter la recherche des conseils pertinents et pour les appliquer au travail quotidien."
+            "content": "Fournit des outils pour aider le gouvernement du Canada dans la transformation numérique et la prestation de services accrue, y compris en devenant plus agile, ouvert et axé sur l'utilisateur. Inclut des vues spécifiques aux tâches et des fonctions interactives pour faciliter la recherche des conseils pertinents et pour les appliquer au travail quotidien."
           }
         ]
       },
@@ -35,7 +35,7 @@
             "tags": [
               "dpgn-overview-start"
             ],
-            "content": "Le guide numérique est également l’occasion d’expérimenter avec de nouvelles approches tout en réutilisant le plus que possible et en fournissant des composants réutilisables pour que les autres puissent les utiliser (voir <a href=\"/digital-playbook-guide-numerique/docs/fr/approches-experimentales-composants-reutilisables.html\">Approches expérimentales et composants réutilisables</a>)."
+            "content": "Les outils numériqueGC est également l’occasion d’expérimenter avec de nouvelles approches tout en réutilisant le plus que possible et en fournissant des composants réutilisables pour que les autres puissent les utiliser (voir <a href=\"/gcdigital-tools_outils-numeriquesgc/docs/fr/approches-experimentales-composants-reutilisables.html\">Approches expérimentales et composants réutilisables</a>)."
           }
         ]
       },
@@ -45,7 +45,7 @@
         "tags": [
           "dpgn-overview-end"
         ],
-        "title": "À propos du guide numérique",
+        "title": "À propos des outils numériqueGC",
         "source_attributes": {
           "id": "propos-du-guide-numrique"
         },
@@ -73,7 +73,7 @@
                     "tags": [
                       "dpgn-overview-end"
                     ],
-                    "content": "Notre objectif est de fournir aux Canadiens des services publics faciles à utiliser et dignes de confiance. Ce guide numérique, ainsi que les normes numériques du gouvernement du Canada sur lequels ce guide est fondé, constituent le fondement du virage du gouvernement du Canada vers une plus grande souplesse, une plus grande ouverture et une plus grande attention sur l’utilisateur. Elles guideront les équipes dans la conception de services numériques, d’une façon qui servira le mieux les Canadiens."
+                    "content": "Notre objectif est de fournir aux Canadiens des services publics faciles à utiliser et dignes de confiance. Ces outils numériqueGC, ainsi que les normes numériques du gouvernement du Canada sur lequels ces outils sont fondés, constituent le fondement du virage du gouvernement du Canada vers une plus grande souplesse, une plus grande ouverture et une plus grande attention sur l’utilisateur."
                   }
                 ]
               },
@@ -89,7 +89,7 @@
                     "tags": [
                       "dpgn-overview-end"
                     ],
-                    "content": "Ces normes numériques ont été créées conjointement avec le public et des groupes d’intervenants clés l'objectif est de co-créer ce guide numérique avec les mêmes groupes. Ce sont là des normes et conseils vivantes, et elles continueront d’évoluer au fil du temps à mesure que nous comprendrons mieux les complexités de leur mise en pratique."
+                    "content": "Ces outils numériquesGC ont été créées conjointement avec le public et des groupes d’intervenants clés l'objectif est de co-créer ce guide numérique avec les mêmes groupes. Ce sont là des normes et conseils vivantes, et elles continueront d’évoluer au fil du temps à mesure que nous comprendrons mieux les complexités de leur mise en pratique."
                   }
                 ]
               },
@@ -105,7 +105,7 @@
                     "tags": [
                       "dpgn-overview-end"
                     ],
-                    "content": "Le Guide numérique du gouvernement du Canada est disponible sous la <a href=\"https://ouvert.canada.ca/fr/licence-du-gouvernement-ouvert-canada\">licence du gouvernement ouvert du Canada</a>, sauf indication contraire."
+                    "content": "Les outils numérique du gouvernement du Canada est disponible sous la <a href=\"https://ouvert.canada.ca/fr/licence-du-gouvernement-ouvert-canada\">licence du gouvernement ouvert du Canada</a>, sauf indication contraire."
                   }
                 ]
               }
@@ -117,7 +117,7 @@
             "tags": [
               "dpgn-overview-end"
             ],
-            "title": "Structure du guide numérique (ébauche)",
+            "title": "Structure des outils numérique (ébauche)",
             "source_attributes": {
               "id": "structure-du-guide-numrique-bauche"
             },
