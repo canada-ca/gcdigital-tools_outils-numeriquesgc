@@ -30,14 +30,15 @@ collections:
 # Translations
 email: zztbscybers@tbs-sct.gc.ca
 description:
-  en: The Government of Canada Digital Playbook provides practical and measurable guidance to assist individual projects with becoming more agile, open and user-focused by applying the Digital Standards.
-  fr: Le guide numérique du gouvernement du Canada fournit des conseils pratiques et des projets pour aider les projets individuels à devenir plus agiles, ouverts et axés sur l'utilisateur en appliquant les normes numériques.
+  en: The Government of Canada Digital Tools enables more agile, open and user-focused approaches to support the application of the GC Digital Standards.
+  fr: Les outils numériques du gouvernement du Canada permettent des approches plus agiles, ouvertes et axées sur l'utilisateur en appliquant les normes numériques GC.
+  
 creator:
-  en: Government of Canada, Treasury Board of Canada Secretariat, Chief Information Officer Branch, OneGC Program Office
-  fr: Gouvernement du Canada, Secrétariat du Conseil du Trésor du Canada, Direction du dirigeant principal de l’information, Bureau du programme unGC
+  en: Government of Canada, Treasury Board of Canada Secretariat, Chief Information Officer Branch
+  fr: Gouvernement du Canada, Secrétariat du Conseil du Trésor du Canada, Direction du dirigeant principal de l’information
 subject:
-  en: Digital Playbook, Government of Canada, services
-  fr: Guide numérique, Gouvernement du Canada, services
+  en: GCDigital Tools, Government of Canada, services
+  fr: NumériqueGC Outils, Gouvernement du Canada, services
 playbookData:
   en: playbook
   fr: guide
