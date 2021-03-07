@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Government of Canada Digital Playbook (draft)"
+title:  "Government of Canada Digital Tools (draft)"
 lang: en
 altLang: fr
 altLangPage: apercu
@@ -11,42 +11,25 @@ altLangPage: apercu
 
 ## Overview (draft)
 
-Provides practical and detailed guidance to assist the Government of Canada in digital transformation and augmented service delivery, including becoming more agile, open and user-focused. Includes task-specific views and interactive features to make it easier to find relevant guidance and to apply it to day-to-day work.
+Provides tools and guidance to assist the Government of Canada in digital transformation and augmented service delivery, including becoming more agile, open and user-focused. Includes task-specific views and interactive features to make it easier to find relevant guidance and to apply it to day-to-day work.
 {: .dpgn-overview-start}
 
-The Digital Playbook is also an opportunity to experiment with new approaches while reusing as much as possible and contributing back reusable components for others to use (see [Experimental approaches and reusable components]({{ site.baseurl }}/docs/en/experimental-approaches-reusable-components.html)).
+The GCDigital Tools proivde an opportunity to experiment with new approaches while reusing as much as possible and contributing back reusable components for others to use (see [Experimental approaches and reusable components]({{ site.baseurl }}/docs/en/experimental-approaches-reusable-components.html)).
 {: .dpgn-overview-start}
 
 {% include views-vues.html lang=page.lang %}
 
 <section class="dpgn-overview-end">
 
-### About the Digital Playbook
+### About the GCDigital Tools
 
 <section class="dpgn-overview-end">
   
 #### Improving government services in the Digital Age
 
-Our goal is to provide public services to Canadians which are simple to use and trustworthy. This Digital Playbook, and the Government of Canada's Digital Standards it is built upon, form the foundation of the Government of Canada’s shift to becoming more agile, open, and user-focused. They will guide teams in designing digital services in a way that best serves Canadians.
+Our goal is to provide public services to Canadians which are simple to use and trustworthy. These GCDigital Tools, and the Government of Canada's Digital Standards it is built upon, form the foundation of the Government of Canada’s shift to becoming more agile, open, and user-focused. 
 
-The digital standards were co-created with the public and key stakeholder groups and the goal is to co-create this Digital Playbook with the same groups. They are living standards and guidance and they will continue to evolve over time as we better understand the complexities involved in putting them into practice.
-
-The Government of Canada Digital Playbook is available under the [Open Government Licence - Canada](https://open.canada.ca/en/open-government-licence-canada), except where otherwise stated.
-
-</section>
-
-<section class="dpgn-overview-end">
-
-#### Structure of the Digital Playbook (draft)
-
-The Digital Playbook is composed of multiple different views which are designed for certain tasks by providing only the information that is relevant to the task and ordering it in a way that makes sense for the user. Each of these views could be composed of one or more of the following:
-
-- **Standards** are strategic and describe the expected behaviour.
-- **Guidelines** are tactical and describe in general terms how to behave according to the standards.
-- **Checklists** include items that are operational and describe in specific terms how to meet the guideline.
-- **Implementation guides** provide additional, detailed information on specific sub-topics to assist with implementing the guideline.
-- **Reusable solutions** include templates, tools and other solutions to assist with implementing the guideline.
-- **Similar resources** are sources of information (e.g., standards from other jurisdictions) that are similar to the guideline.
+The Government of Canada Digital Tools are available under the [Open Government Licence - Canada](https://open.canada.ca/en/open-government-licence-canada), except where otherwise stated.
 
 </section>
 
@@ -54,11 +37,11 @@ The Digital Playbook is composed of multiple different views which are designed 
 
 #### Implementation approach
 
-The approach to developing and releasing the Digital Playbook will be similar to the Web Experience Toolkit and HTML5, where the Digital Playbook continuously evolves on GitHub and stable snapshots of that work are released as formal versions through Canada.ca. This enables the Digital Playbook to be both agile and ever-improving on GitHub while also providing a stable version through Canada.ca that can be relied upon for guidance.
+The approach to developing and releasing the GCDigital Tools will be similar to the Web Experience Toolkit and HTML5, where the GCDigital Tools continuously evolve on GitHub and stable snapshots of that work are released as formal versions through Canada.ca. This enables the GCDigital Tools to be both agile and ever-improving on GitHub while also providing a stable version through Canada.ca that can be relied upon for guidance.
 
-Community feedback and contributions to the Digital Playbook are encouraged, with designated reviewers for each part of the Digital Playbook being responsible for reviewing, responding to, requesting changes (as needed) and eventually approving or declining the feedback and contributions. The primary reviewers are individuals from the related policy areas and areas of expertise, and are also responsible for contributing content and engaging with their respective communities.
+Community feedback and contributions to the GCDigital Tools are encouraged, with designated reviewers for each part of the GCDigital Tools being responsible for reviewing, responding to, requesting changes (as needed) and eventually approving or declining the feedback and contributions. The primary reviewers are individuals from the related policy areas and areas of expertise, and are also responsible for contributing content and engaging with their respective communities.
 
-To ensure that the Digital Playbook is as easy to use as possible, contributors/reviewers would work with their respective communities to determine how to make the Digital Playbook more applicable to their day-to-day work, including for which tasks/scenarios personalized [Digital Playbook views]({{ site.baseurl }}/docs/{{ page.lang }}/views{{ site.RenderedFileExtension }}) should be provided.
+To ensure that the GCDigital Tools are as easy to use as possible, contributors/reviewers would work with their respective communities to determine how to make the GCDigital Tools more applicable to their day-to-day work, including for which tasks/scenarios personalized [GCDigital Tools views]({{ site.baseurl }}/docs/{{ page.lang }}/views{{ site.RenderedFileExtension }}) should be provided.
 
 </section>
 </section>
