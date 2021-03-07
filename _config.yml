@@ -180,8 +180,8 @@ AutomatedDecisionSystems:
     en: Algorithmic Impact Assessment
     fr: Évaluation de l'impact algorithmique
   ImpactAssessmentURL:
-    en: "https://canada-ca.github.io/digital-playbook-guide-numerique/views-vues/automated-decision-automatise/en/algorithmic-impact-assessment.html"
-    fr: "https://canada-ca.github.io/digital-playbook-guide-numerique/views-vues/automated-decision-automatise/fr/evaluation-impact-algorithmique.html"
+    en: "https://canada-ca.github.io/gcdigital-tools_outils-numeriquesgc/views-vues/automated-decision-automatise/en/algorithmic-impact-assessment.html"
+    fr: "https://canada-ca.github.io/gcdigital-tools_outils-numeriquesgc/views-vues/automated-decision-automatise/fr/evaluation-impact-algorithmique.html"
 
 # Canada.ca theme translations
 home:
