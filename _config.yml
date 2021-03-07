@@ -168,20 +168,6 @@ common:
                 fr: "Ressources similaires"
               tags: ["dpgn-section-similar"]
 
-# Playbook section translations
-ComparisonPlaybookIntro:
-  en: Comparison of the Digital Playbook to similar resources
-  fr: Comparaison du guide numérique à des ressources similaires
-ComparisonPlaybookTitle:
-  en: Government of Canada Digital Playbook comparison table
-  fr: Tableau comparatif du guide numérique du gouvernement du Canada
-ComparisonPlaybookFile:
-  en: gc-digital-playbook-comparison-table
-  fr: tableau-comparatif-guide-numerique-gc
-Colon:
-  en: ":"
-  fr: "&#160;:"
-
 # Automated Decision Systems
 AutomatedDecisionSystems:
   Directive:
