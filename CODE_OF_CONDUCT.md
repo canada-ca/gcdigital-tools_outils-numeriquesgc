@@ -38,7 +38,7 @@ This Code of Conduct applies both within project spaces and in public spaces whe
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at zzOneGC@tbs-sct.gc.ca. The project team will review and investigate all complaints, and will respond in a way that it deems appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at zztbscybers@tbs-sct.gc.ca. The project team will review and investigate all complaints, and will respond in a way that it deems appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
 
 Project maintainers who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project's leadership.
 
@@ -110,7 +110,7 @@ projet.
 
 Les cas de comportements abusifs, harcelants ou tout autre comportement
 inacceptable peuvent être signalés en contactant l'équipe du projet à
-zzOneGC@tbs-sct.gc.ca. Toutes les plaintes seront examinées et étudiées
+zztbscybers@tbs-sct.gc.ca. Toutes les plaintes seront examinées et étudiées
 et se traduiront par une réponse appropriée aux
 circonstances. L'équipe du projet s'engage à garder confidentielles les
 informations de la personne qui remonte un incident. Plus de détails sur
