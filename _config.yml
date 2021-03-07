@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-baseurl: "/digital-playbook-guide-numerique" # the subpath of your site, e.g. /blog
+baseurl: "/gcdigital-tools_outils-numeriquesgc" # the subpath of your site, e.g. /blog
 defaultView: "" # View where site should default
 url: "http://canada-ca.github.io" # the base hostname & protocol for your site
 twitter_username: canada-ca
@@ -28,7 +28,7 @@ collections:
     permalink: /:path
 
 # Translations
-email: zzOneGC@tbs-sct.gc.ca
+email: zztbscybers@tbs-sct.gc.ca
 description:
   en: The Government of Canada Digital Playbook provides practical and measurable guidance to assist individual projects with becoming more agile, open and user-focused by applying the Digital Standards.
   fr: Le guide numérique du gouvernement du Canada fournit des conseils pratiques et des projets pour aider les projets individuels à devenir plus agiles, ouverts et axés sur l'utilisateur en appliquant les normes numériques.
