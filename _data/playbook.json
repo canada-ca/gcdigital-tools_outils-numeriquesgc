@@ -1,6 +1,6 @@
 {
-  "$schema": "https://raw.githubusercontent.com/canada-ca/digital-playbook-guide-numerique/master/_data/playbook_schema.json",
-  "title": "Government of Canada Digital Playbook (draft)",
+  "$schema": "https://raw.githubusercontent.com/canada-ca/gcdigital-tools_outils-numeriquesgc/master/_data/playbook_schema.json",
+  "title": "Government of Canada Digital Tools (draft)",
   "introduction": {
     "title": "Overview (draft)",
     "tags": [
@@ -19,7 +19,7 @@
             "tags": [
               "dpgn-overview-start"
             ],
-            "content": "Provides practical and detailed guidance to assist the Government of Canada in digital transformation and augmented service delivery, including becoming more agile, open and user-focused. Includes task-specific views and interactive features to make it easier to find relevant guidance and to apply it to day-to-day work."
+            "content": "Provides tools to assist the Government of Canada in digital transformation and augmented service delivery, including becoming more agile, open and user-focused. Includes task-specific views and interactive features to make it easier to find relevant guidance and to apply it to day-to-day work."
           }
         ]
       },
@@ -45,7 +45,7 @@
         "tags": [
           "dpgn-overview-end"
         ],
-        "title": "About the Digital Playbook",
+        "title": "About the GCDigital Tools",
         "source_attributes": {
           "id": "about-the-digital-playbook"
         },
@@ -73,11 +73,11 @@
                     "tags": [
                       "dpgn-overview-end"
                     ],
-                    "content": "Our goal is to provide public services to Canadians which are simple to use and trustworthy. This Digital Playbook, and the Government of Canada's Digital Standards it is built upon, form the foundation of the Government of Canada’s shift to becoming more agile, open, and user-focused. They will guide teams in designing digital services in a way that best serves Canadians."
+                    "content": "Our goal is to provide public services to Canadians which are simple to use and trustworthy. The GCDigital Tools support the Government of Canada's Digital Standards."
                   }
                 ]
               },
-              {
+              {                
                 "content_type": "block",
                 "source_element": "p",
                 "tags": [
@@ -89,23 +89,7 @@
                     "tags": [
                       "dpgn-overview-end"
                     ],
-                    "content": "The digital standards were co-created with the public and key stakeholder groups and the goal is to co-create this Digital Playbook with the same groups. They are living standards and guidance and they will continue to evolve over time as we better understand the complexities involved in putting them into practice."
-                  }
-                ]
-              },
-              {
-                "content_type": "block",
-                "source_element": "p",
-                "tags": [
-                  "dpgn-overview-end"
-                ],
-                "content": [
-                  {
-                    "content_type": "inline",
-                    "tags": [
-                      "dpgn-overview-end"
-                    ],
-                    "content": "The Government of Canada Digital Playbook is available under the <a href=\"https://open.canada.ca/en/open-government-licence-canada\">Open Government Licence - Canada</a>, except where otherwise stated."
+                    "content": "The Government of Canada Digital Tools is available under the <a href=\"https://open.canada.ca/en/open-government-licence-canada\">Open Government Licence - Canada</a>, except where otherwise stated."
                   }
                 ]
               }
@@ -117,7 +101,7 @@
             "tags": [
               "dpgn-overview-end"
             ],
-            "title": "Structure of the Digital Playbook (draft)",
+            "title": "Structure of the GCDigital Tools (draft)",
             "source_attributes": {
               "id": "structure-of-the-digital-playbook-draft"
             },
@@ -134,7 +118,7 @@
                     "tags": [
                       "dpgn-overview-end"
                     ],
-                    "content": "The Digital Playbook is composed of multiple different views which are designed for certain tasks by providing only the information that is relevant to the task and ordering it in a way that makes sense for the user. Each of these views could be composed of one or more of the following:"
+                    "content": "The GCDigital Tools site is composed of multiple different views which are designed for certain tasks by providing only the information that is relevant to the task and ordering it in a way that makes sense for the user. Each of these views could be composed of one or more of the following:"
                   }
                 ]
               },
@@ -268,7 +252,7 @@
                     "tags": [
                       "dpgn-overview-end"
                     ],
-                    "content": "The approach to developing and releasing the Digital Playbook will be similar to the Web Experience Toolkit and HTML5, where the Digital Playbook continuously evolves on GitHub and stable snapshots of that work are released as formal versions through Canada.ca. This enables the Digital Playbook to be both agile and ever-improving on GitHub while also providing a stable version through Canada.ca that can be relied upon for guidance."
+                    "content": "The approach to developing and releasing GCDigital Tools will be similar to the Web Experience Toolkit and HTML5, where the GCDigital Tools continuously evolves on GitHub and stable snapshots of that work are released as formal versions through Canada.ca. This enables the tools to be both agile and ever-improving on GitHub while also providing a stable version through Canada.ca that can be relied upon for guidance."
                   }
                 ]
               },
@@ -284,7 +268,7 @@
                     "tags": [
                       "dpgn-overview-end"
                     ],
-                    "content": "Community feedback and contributions to the Digital Playbook are encouraged, with designated reviewers for each part of the Digital Playbook being responsible for reviewing, responding to, requesting changes (as needed) and eventually approving or declining the feedback and contributions. The primary reviewers are individuals from the related policy areas and areas of expertise, and are also responsible for contributing content and engaging with their respective communities."
+                    "content": "Community feedback and contributions to the GCDigital Tools are encouraged, with designated reviewers for each part of the GCDigital Tools being responsible for reviewing, responding to, requesting changes (as needed) and eventually approving or declining the feedback and contributions. The primary reviewers are individuals from the related policy areas and areas of expertise, and are also responsible for contributing content and engaging with their respective communities."
                   }
                 ]
               },
@@ -300,7 +284,7 @@
                     "tags": [
                       "dpgn-overview-end"
                     ],
-                    "content": "To ensure that the Digital Playbook is as easy to use as possible, contributors/reviewers would work with their respective communities to determine how to make the Digital Playbook more applicable to their day-to-day work, including for which tasks/scenarios personalized <a href=\"/digital-playbook-guide-numerique/docs/en/views.html\">Digital Playbook views</a> should be provided."
+                    "content": "To ensure that the GCDigital Tools are as easy to use as possible, contributors/reviewers would work with their respective communities to determine how to make the GCDigital Tools more applicable to their day-to-day work, including for which tasks/scenarios personalized <a href=\"/gcdigital-tools_outils-numeriquesgc/docs/en/views.html\">GCDigital Tools views</a> should be provided."
                   }
                 ]
               }
@@ -311,7 +295,7 @@
     ]
   },
   "standards": {
-    "title": "Digital Standards",
+    "title": "GCDigital Tools",
     "tags": [
       "dpgn-section-standards"
     ],
