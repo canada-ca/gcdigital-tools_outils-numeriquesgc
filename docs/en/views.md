@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Digital Playbook views documentation
+title: GCDigital Tools views documentation
 lang: en
 altLang: fr
 altLangPage: vues
@@ -14,9 +14,9 @@ collectionDirectory: docs
 
 ## Overview
 
-The Digital Playbook contains a lot of information but not all of it will be relevant to each task. Digital Playbook views are generated from the [Digital Playbook dataset](https://github.com/canada-ca/digital-playbook-guide-numerique/blob/master/_data/playbook.json) and can make the Digital Playbook more relevant and easier to use for certain tasks by providing only the information that is relevant to the task and ordering it in a way that makes sense for the user.
+The GCDigital Tools views are generated from the [GCDigital Tools dataset](https://github.com/canada-ca/gcdigital-tools_outils-numeriquesgc/blob/master/_data/playbook.json) and can make the GCDigital Tools more relevant and easier to use for certain tasks by providing only the information that is relevant to the task and ordering it in a way that makes sense for the user.
 
-There are four steps to creating a Playbook view:
+There are four steps to creating a GCDigital Tools view:
 
 <!-- markdownlint-disable MD032 -->
 1. [Defining the view structure](#defining-the-view-structure)
@@ -36,26 +36,7 @@ To determine which view pages are needed, consider the logical steps for the tas
 
 For each view page, determine which content should be included. Varying sizes of blocks of content can be included, from large content sections to much smaller blocks of content such as individual list items and paragraphs. The content that will be included on a view page can be controlled by applying one or more tags to that content.
 
-### View page sections
-
-The Digital Playbook has the following page sections and ordering of content by default, which aligns with the structure of the [Playbook dataset](https://github.com/canada-ca/digital-playbook-guide-numerique/blob/master/_data/playbook.json):
-
-<!-- markdownlint-disable MD032 -->
-- Playbook overview
-- Standard (one section per standard)
-  - Introduction
-  - Guidelines (links)
-  - Related guidelines (links)
-  - Guideline (one section per guideline)
-    - Introduction
-    - Checklist
-    - Implementation guides
-    - Reusable solutions
-    - Similar resources
-{: .lst-spcd}
-<!-- markdownlint-enable MD032 -->
-
-For more details about the dataset structure, see the [Playbook dataset schema](https://github.com/canada-ca/digital-playbook-guide-numerique/blob/master/_data/playbook_schema.json).
+For more details about the dataset structure, see the [GCDigital Tools dataset schema](https://github.com/canada-ca/gcdigital-tools_outils-numeriquesgc/blob/master/_data/playbook_schema.json).
 
 For simple views, the default page sections and ordering of content can be used to present the content that is included in the page. For more advanced views, the content could be reordered or combined in different ways to produce different page structures and designs.
 
@@ -168,7 +149,7 @@ Section tags are mainly used for dataset generation and filtering. Each of these
 
 ## Creating a page that retrieves and displays tagged content
 
-The Digital Playbook provides several helper functions to make it easier to produce the desired output. This section will cover the basics of [building a view page](#building-a-view-page) and the available [helper functions](#helper-functions).
+The GCDigital Tools provides several helper functions to make it easier to produce the desired output. This section will cover the basics of [building a view page](#building-a-view-page) and the available [helper functions](#helper-functions).
 
 ### Building a view page
 
@@ -180,7 +161,7 @@ The Digital Playbook provides several helper functions to make it easier to prod
     3. ``collectionDirectory``: Folder for the view (in the form ``views/&lt;view-name&gt;``)
 1. Build the content for each .md file:
     - **Simple views:** Update the ``relevantTags`` parameter in the include statement with the tags for the view page. Multiple tags should be separated with commas (e.g., ``"dpgn-stage-alpha,dpgn-stage-live"``).</li>
-    - **Advanced views:** Use the [Playbook helper functions](#helper-functions) and/or build custom output using [Jekyll](https://jekyllrb.com/) and [Liquid](https://github.com/Shopify/liquid/wiki/Liquid-for-Designers) on the Playbook data from ``site.data.playbook`` (English) or ``site.data.guide`` (French).
+    - **Advanced views:** Use the [GCDigital Tools helper functions](#helper-functions) and/or build custom output using [Jekyll](https://jekyllrb.com/) and [Liquid](https://github.com/Shopify/liquid/wiki/Liquid-for-Designers) on the Playbook data from ``site.data.playbook`` (English) or ``site.data.guide`` (French).
 {: .lst-spcd}
 <!-- markdownlint-enable MD032 -->
 
