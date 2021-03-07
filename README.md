@@ -53,7 +53,7 @@ Fournit des outils pratiques pour aider le gouvernement du Canada dans la transf
 
 ### Vues basées sur l'exigence relative au niveau d’assurance
 
-- [Évaluation au niveau d’assurance (draft)](hhttps://canada-ca.github.io/gcdigital-tools_outils-numeriquesgc/views-vues/assurance-level-requirement/fr/niveau-d'assurance.html)
+- [Évaluation au niveau d’assurance (draft)](https://canada-ca.github.io/gcdigital-tools_outils-numeriquesgc/views-vues/assurance-level-requirement/fr/niveau-d'assurance.html)
 
 ### Vues basées sur l'informatique en nuage
 
@@ -70,6 +70,3 @@ Fournit des outils pratiques pour aider le gouvernement du Canada dans la transf
 ### Vues basées sur les normes architecturales sur le numérique
 
 - [Comment dois-je m'assurer que mon projet respecte les exigences du CAEI GC? (ébauche)](https://canada-ca.github.io/gcdigital-tools_outils-numeriquesgc/views-vues/gc-earb-ceai/fr/ceai-gc.html)
-- [Évaluation d'impact algorithmique (ébauche)](https://canada-ca.github.iogcdigital-tools_outils-numeriquesgc/views-vues/automated-decision-automatise/fr/evaluation-impact-algorithmique.html)
-- [Comment dois-je mettre en place un système de décision automatisé? (ébauche)](https://canada-ca.github.io/gcdigital-tools_outils-numeriquesgce/views-vues/automated-decision-automatise/fr/decision-automatise.html)
-- [Outil décisionnel du nuage approprié (ébauche)](https://canada-ca.github.io/gcdigital-tools_outils-numeriquesgc/views-vues/cloud-nuage/fr/nuage-outil-decisionnel.html)
