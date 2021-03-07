@@ -35,7 +35,7 @@
             "tags": [
               "dpgn-overview-start"
             ],
-            "content": "The Digital Playbook is also an opportunity to experiment with new approaches while reusing as much as possible and contributing back reusable components for others to use (see <a href=\"/digital-playbook-guide-numerique/docs/en/experimental-approaches-reusable-components.html\">Experimental approaches and reusable components</a>)."
+            "content": "The GCDigital Tools provide an opportunity to experiment with new approaches while reusing as much as possible and contributing back reusable components for others to use (see <a href=\"/gcdigital-tools_outils-numeriquesgc/docs/en/experimental-approaches-reusable-components.html\">Experimental approaches and reusable components</a>)."
           }
         ]
       },
@@ -95,141 +95,7 @@
               }
             ]
           },
-          {
-            "content_type": "section",
-            "source_element": "section",
-            "tags": [
-              "dpgn-overview-end"
-            ],
-            "title": "Structure of the GCDigital Tools (draft)",
-            "source_attributes": {
-              "id": "structure-of-the-digital-playbook-draft"
-            },
-            "content": [
-              {
-                "content_type": "block",
-                "source_element": "p",
-                "tags": [
-                  "dpgn-overview-end"
-                ],
-                "content": [
-                  {
-                    "content_type": "inline",
-                    "tags": [
-                      "dpgn-overview-end"
-                    ],
-                    "content": "The GCDigital Tools site is composed of multiple different views which are designed for certain tasks by providing only the information that is relevant to the task and ordering it in a way that makes sense for the user. Each of these views could be composed of one or more of the following:"
-                  }
-                ]
-              },
-              {
-                "content_type": "block",
-                "source_element": "ul",
-                "tags": [
-                  "dpgn-overview-end"
-                ],
-                "content": [
-                  {
-                    "content_type": "block",
-                    "source_element": "li",
-                    "tags": [
-                      "dpgn-overview-end"
-                    ],
-                    "content": [
-                      {
-                        "content_type": "inline",
-                        "tags": [
-                          "dpgn-overview-end"
-                        ],
-                        "content": "<strong>Standards</strong> are strategic and describe the expected behaviour."
-                      }
-                    ]
-                  },
-                  {
-                    "content_type": "block",
-                    "source_element": "li",
-                    "tags": [
-                      "dpgn-overview-end"
-                    ],
-                    "content": [
-                      {
-                        "content_type": "inline",
-                        "tags": [
-                          "dpgn-overview-end"
-                        ],
-                        "content": "<strong>Guidelines</strong> are tactical and describe in general terms how to behave according to the standards."
-                      }
-                    ]
-                  },
-                  {
-                    "content_type": "block",
-                    "source_element": "li",
-                    "tags": [
-                      "dpgn-overview-end"
-                    ],
-                    "content": [
-                      {
-                        "content_type": "inline",
-                        "tags": [
-                          "dpgn-overview-end"
-                        ],
-                        "content": "<strong>Checklists</strong> include items that are operational and describe in specific terms how to meet the guideline."
-                      }
-                    ]
-                  },
-                  {
-                    "content_type": "block",
-                    "source_element": "li",
-                    "tags": [
-                      "dpgn-overview-end"
-                    ],
-                    "content": [
-                      {
-                        "content_type": "inline",
-                        "tags": [
-                          "dpgn-overview-end"
-                        ],
-                        "content": "<strong>Implementation guides</strong> provide additional, detailed information on specific sub-topics to assist with implementing the guideline."
-                      }
-                    ]
-                  },
-                  {
-                    "content_type": "block",
-                    "source_element": "li",
-                    "tags": [
-                      "dpgn-overview-end"
-                    ],
-                    "content": [
-                      {
-                        "content_type": "inline",
-                        "tags": [
-                          "dpgn-overview-end"
-                        ],
-                        "content": "<strong>Reusable solutions</strong> include templates, tools and other solutions to assist with implementing the guideline."
-                      }
-                    ]
-                  },
-                  {
-                    "content_type": "block",
-                    "source_element": "li",
-                    "tags": [
-                      "dpgn-overview-end"
-                    ],
-                    "content": [
-                      {
-                        "content_type": "inline",
-                        "tags": [
-                          "dpgn-overview-end"
-                        ],
-                        "content": "<strong>Similar resources</strong> are sources of information (e.g., standards from other jurisdictions) that are similar to the guideline."
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
+         {
             "content_type": "section",
             "source_element": "section",
             "tags": [
