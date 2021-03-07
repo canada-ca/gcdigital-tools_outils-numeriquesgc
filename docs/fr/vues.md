@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Documentation pour les vues du guide numérique
+title: Documentation pour les vues des outils numériqueGC
 lang: fr
 altLang: en
 altLangPage: views
@@ -14,9 +14,9 @@ collectionDirectory: docs
 
 ## Aperçu
 
-Le guide numérique contient beaucoup d'informations mais elles ne seront pas toutes pertinentes pour chaque tâche. Les vues du guide numérique sont générés à partir du [jeu de données du guide numérique](https://github.com/canada-ca/digital-playbook-guide-numerique/blob/master/_data/guide.json) et peuvent rendre le guide numérique plus pertinent et plus facile à utiliser pour certaines tâches en fournissant uniquement les informations pertinentes à la tâche et en les ordonnant d'une manière logique pour l'utilisateur.
+Les outils numériqueGC contient beaucoup d'informations mais elles ne seront pas toutes pertinentes pour chaque tâche. Les vues des outils numériqueGC sont générés à partir du [jeu de données des outils numériqueGC](https://github.com/canada-ca/gcdigital-tools_outils-numeriquesgc/blob/master/_data/guide.json) et peuvent rendre les outils numériqueGC plus pertinent et plus facile à utiliser pour certaines tâches en fournissant uniquement les informations pertinentes à la tâche et en les ordonnant d'une manière logique pour l'utilisateur.
 
-There are four steps to creating a Playbook view:
+There are four steps to creating a GCDigital tools view:
 
 <!-- markdownlint-disable MD032 -->
 1. [Defining the view structure](#defining-the-view-structure)
@@ -36,26 +36,7 @@ To determine which view pages are needed, consider the logical steps for the tas
 
 For each view page, determine which content should be included. Varying sizes of blocks of content can be included, from large content sections to much smaller blocks of content such as individual list items and paragraphs. The content that will be included on a view page can be controlled by applying one or more tags to that content.
 
-### View page sections
-
-The Digital Playbook has the following page sections and ordering of content by default, which aligns with the structure of the [Playbook dataset](https://github.com/canada-ca/digital-playbook-guide-numerique/blob/master/_data/playbook.json):
-
-<!-- markdownlint-disable MD032 -->
-- Playbook overview
-- Standard (one section per standard)
-  - Introduction
-  - Guidelines (links)
-  - Related guidelines (links)
-  - Guideline (one section per guideline)
-    - Introduction
-    - Checklist
-    - Implementation guides
-    - Reusable solutions
-    - Similar resources
-{: .lst-spcd}
-<!-- markdownlint-enable MD032 -->
-
-For more details about the dataset structure, see the [Playbook dataset schema](https://github.com/canada-ca/digital-playbook-guide-numerique/blob/master/_data/playbook_schema.json).
+For more details about the dataset structure, see the [GCDigital Tools dataset schema](https://github.com/canada-ca/gcdigital-tools_outils-numeriquesgc/blob/master/_data/playbook_schema.json).
 
 For simple views, the default page sections and ordering of content can be used to present the content that is included in the page. For more advanced views, the content could be reordered or combined in different ways to produce different page structures and designs.
 
@@ -145,7 +126,7 @@ The following tags are supported by default by the Digital Playbook:
 Section tags are mainly used for dataset generation and filtering. Each of these tags should only be used to identify sections or containers of the specified type.
 
 <!-- markdownlint-disable MD032 -->
-- ``dpgn-section-overview``: Contains the Playbook overview
+- ``dpgn-section-overview``: Contains the GCDigital Tools overview
 - ``dpgn-section-standard``: Contains a standard
 - ``dpgn-section-intro-standard``: Contains the introduction for the current standard
 - ``dpgn-section-guidelines``: Contains a list of links to the guidelines within the current standard
@@ -315,7 +296,7 @@ The content can only be added to a sub-section of a guideline or standard within
     1. In the GitHub pages section, set "Source" to "gh-pages branch"
 1. Create a new "gh-pages" branch from the branch used to create the view
 1. Go to your branches page. Refresh the page periodically until the gh-pages build for the gh-pages branch either passes (green checkmark) or fails (red x).
-1. If the build passes, the view can be found at https:&#47;&#47;&lt;github-handle&gt;.github.io/digital-playbook-guide-numerique/views-vues/&lt;view-directory&gt;/en/&lt;filename&gt;.html
+1. If the build passes, the view can be found at https:&#47;&#47;&lt;github-handle&gt;.github.io/gcdigital-tools_outils-numeriquesgc/views-vues/&lt;view-directory&gt;/en/&lt;filename&gt;.html
 1. If the build fails, review your code and correct the error. To get the build error messages, you can use Travis-CI by:
     1. Going to the [Travis-CI website](https://travis-ci.org/)
     1. Sign in using your GitHub account
