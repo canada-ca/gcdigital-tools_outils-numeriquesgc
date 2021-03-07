@@ -4,15 +4,13 @@
 
 # GCDigital Tools 
 
-([Website version of the Digital Playbook overview](https://canada-ca.github.io/digital-playbook-guide-numerique/en/overview.html))
+([Website version of the GCDigital Tools](https://canada-ca.github.io/digital-playbook-guide-numerique/en/overview.html))
 
-Provides practical and detailed guidance to assist the Government of Canada in digital transformation and augmented service delivery, including becoming more agile, open and user-focused. Includes task-specific views and interactive features to make it easier to find relevant guidance and to apply it to day-to-day work.
+Provides practical tools and guidance to assist the Government of Canada in digital transformation and augmented service delivery, including becoming more agile, open and user-focused. Includes task-specific views and interactive features/
 
-The Digital Playbook is also an opportunity to experiment with new approaches while reusing as much as possible and contributing back reusable components for others to use (see [Experimental approaches and reusable components](https://canada-ca.github.io/digital-playbook-guide-numerique/docs/en/experimental-approaches-reusable-components.html)).
+## GCDigital Tools views
 
-## Digital Playbook views
-
-[Digital Playbook views](https://canada-ca.github.io/digital-playbook-guide-numerique/docs/en/views.html) are generated from the [Digital Playbook dataset](https://github.com/canada-ca/digital-playbook-guide-numerique/blob/master/_data/playbook.json) and can make the Digital Playbook more relevant and easier to use for certain tasks by providing only the information that is relevant to the task and ordering it in a way that makes sense for the user.
+[GCDigital Tools views](https://canada-ca.github.io/digital-playbook-guide-numerique/docs/en/views.html) are generated from the [Digital Playbook dataset](https://github.com/canada-ca/digital-playbook-guide-numerique/blob/master/_data/playbook.json) and can make the Digital Playbook more relevant and easier to use for certain tasks by providing only the information that is relevant to the task and ordering it in a way that makes sense for the user.
 
 ### Agile views
 
@@ -44,13 +42,11 @@ The Digital Playbook is also an opportunity to experiment with new approaches wh
 
 ([Version du site web de l'aperçu du guide numérique](https://canada-ca.github.io/digital-playbook-guide-numerique/fr/apercu.html))
 
-Fournit des conseils pratiques et détaillés pour aider le gouvernement du Canada dans la transformation numérique et la prestation de services accrue, y compris en devenant plus agile, ouvert et axé sur l'utilisateur. Inclut des vues spécifiques aux tâches et des fonctions interactives pour faciliter la recherche des conseils pertinents et pour les appliquer au travail quotidien.
+Fournit des outils pratiques pour aider le gouvernement du Canada dans la transformation numérique et la prestation de services accrue, y compris en devenant plus agile, ouvert et axé sur l'utilisateur. Inclut des vues spécifiques aux tâches et des fonctions interactives.
 
-Le guide numérique est également l’occasion d’expérimenter avec de nouvelles approches tout en réutilisant le plus que possible et en fournissant des composants réutilisables pour que les autres puissent les utiliser (voir [Approches expérimentales et composants réutilisables](https://canada-ca.github.io/digital-playbook-guide-numerique/docs/fr/approches-experimentales-composants-reutilisables.html)).
+## Vues des outils numériqueGC
 
-## Vues du guide numérique
-
-Les [vues du guide numérique](https://canada-ca.github.io/digital-playbook-guide-numerique/docs/fr/vues.html) sont générés à partir du [jeu de données du guide numérique](https://github.com/canada-ca/digital-playbook-guide-numerique/blob/master/_data/guide.json) et peuvent rendre le guide numérique plus pertinent et plus facile à utiliser pour certaines tâches en fournissant uniquement les informations pertinentes à la tâche et en les ordonnant d'une manière logique pour l'utilisateur.
+Les [vues des outils numériqueGC](https://canada-ca.github.io/digital-playbook-guide-numerique/docs/fr/vues.html) sont générés à partir du [jeu de données du guide numérique](https://github.com/canada-ca/digital-playbook-guide-numerique/blob/master/_data/guide.json) et peuvent rendre le guide numérique plus pertinent et plus facile à utiliser pour certaines tâches en fournissant uniquement les informations pertinentes à la tâche et en les ordonnant d'une manière logique pour l'utilisateur.
 
 ### Vues basées sur Agile
 
