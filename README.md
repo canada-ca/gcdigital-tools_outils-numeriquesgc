@@ -18,7 +18,7 @@ Provides practical tools and guidance to assist the Government of Canada in digi
 
 ### Artificial Intelligence (AI) views
 
-- [Algorithmic Impact Assessment (Archived)](https://canada-ca.github.io/aia-eia-js/)
+- [Algorithmic Impact Assessment](https://canada-ca.github.io/aia-eia-js/)
 
 ### Cloud views
 
