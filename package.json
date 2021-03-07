@@ -1,7 +1,7 @@
 {
-  "name": "digital-playbook-guide-numerique",
+  "name": "gcdigital-tools_outils-numeriquesgc",
   "version": "0.0.1",
-  "description": "This Digital Playbook, and the Digital Principles it is built upon, will form the foundation of the Government of Canada’s shift to becoming more agile, open, and user-focused",
+  "description": "These GCDigital Tools, and the GC Digital Standards they are built upon, will support the Government of Canada’s shift to becoming more agile, open, and user-focused",
   "main": "index.js",
   "scripts": {
     "link-check": "node link-check.js",
@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/canada-ca/digital-playbook-guide-numerique.git"
+    "url": "git+https://github.com/canada-ca/gcdigital-tools_outils-numeriquesgc.git"
   },
   "author": "canada-ca",
   "license": "SEE LICENSE IN LICENSE.md",
   "bugs": {
-    "url": "https://github.com/canada-ca/digital-playbook-guide-numerique/issues"
+    "url": "https://github.com/canada-ca/gcdigital-tools_outils-numeriquesgc/issues"
   },
-  "homepage": "https://github.com/canada-ca/digital-playbook-guide-numerique#readme",
+  "homepage": "https://github.com/canada-ca/gcdigital-tools_outils-numeriquesgc#readme",
   "devDependencies": {
     "chalk": "^4.1.0",
     "eslint": "^7.21.0",
