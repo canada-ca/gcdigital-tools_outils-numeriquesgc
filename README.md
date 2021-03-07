@@ -20,6 +20,10 @@ Provides practical tools and guidance to assist the Government of Canada in digi
 
 - [Algorithmic Impact Assessment](https://canada-ca.github.io/aia-eia-js/)
 
+### Assurance Level Assessment views
+
+- [Assurance Level Assessment Tool (draft)](https://canada-ca.github.io/digital-playbook-guide-numerique/views-vues/assurance-level-requirement/en/assurance-level-requirement.html)
+
 ### Cloud views
 
 - [Right Cloud Decision Tool (draft)](https://canada-ca.github.io/digital-playbook-guide-numerique/views-vues/cloud-nuage/en/cloud-decision-tool.html)
@@ -54,6 +58,10 @@ Les [vues des outils numériqueGC](https://canada-ca.github.io/digital-playbook-
 ### Vues basées sur l'intelligence artificielle (IA)
 
 - [Évaluation d'impact algorithmique)](https://canada-ca.github.io/aia-eia-js/?lang=fr)
+
+### Vues basées sur l'exigence relative au niveau d’assurance
+
+- [Évaluation au niveau d’assurance (draft)](hhttps://canada-ca.github.io/digital-playbook-guide-numerique/views-vues/assurance-level-requirement/fr/niveau-d'assurance.html)
 
 ### Vues basées sur l'informatique en nuage
 
