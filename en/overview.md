@@ -27,7 +27,7 @@ The GCDigital Tools proivde an opportunity to experiment with new approaches whi
   
 #### Improving government services in the Digital Age
 
-Our goal is to provide public services to Canadians which are simple to use and trustworthy. These GCDigital Tools, and the Government of Canada's Digital Standards it is built upon, form the foundation of the Government of Canada’s shift to becoming more agile, open, and user-focused. 
+Our goal is to provide public services to Canadians which are simple to use and trustworthy. These GCDigital Tools, and the Government of Canada's Digital Standards it is built upon, form the foundation of the Government of Canada’s shift to becoming more agile, open, and user-focused.
 
 The Government of Canada Digital Tools are available under the [Open Government Licence - Canada](https://open.canada.ca/en/open-government-licence-canada), except where otherwise stated.
 
