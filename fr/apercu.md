@@ -27,7 +27,7 @@ Les outils numériqueGC est également l’occasion d’expérimenter avec de no
   
 #### Améliorer les services gouvernementaux à l’ère numérique
 
-Notre objectif est de fournir aux Canadiens des services publics faciles à utiliser et dignes de confiance. Ces outils numériqueGC, ainsi que les normes numériques du gouvernement du Canada sur lequels ce guide est fondé, constituent le fondement du virage du gouvernement du Canada vers une plus grande souplesse, une plus grande ouverture et une plus grande attention sur l’utilisateur. 
+Notre objectif est de fournir aux Canadiens des services publics faciles à utiliser et dignes de confiance. Ces outils numériqueGC, ainsi que les normes numériques du gouvernement du Canada sur lequels ce guide est fondé, constituent le fondement du virage du gouvernement du Canada vers une plus grande souplesse, une plus grande ouverture et une plus grande attention sur l’utilisateur.
 
 Les outils numérique du gouvernement du Canada est disponible sous la [licence du gouvernement ouvert du Canada](https://ouvert.canada.ca/fr/licence-du-gouvernement-ouvert-canada), sauf indication contraire.
 
