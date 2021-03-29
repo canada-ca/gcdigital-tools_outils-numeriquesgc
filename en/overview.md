@@ -44,3 +44,4 @@ Community feedback and contributions to the GCDigital Tools are encouraged, with
 To ensure that the GCDigital Tools are as easy to use as possible, contributors/reviewers would work with their respective communities to determine how to make the GCDigital Tools more applicable to their day-to-day work, including for which tasks/scenarios personalized [GCDigital Tools views]({{ site.baseurl }}/docs/{{ page.lang }}/views{{ site.RenderedFileExtension }}) should be provided.
 
 </section>
+</section>
