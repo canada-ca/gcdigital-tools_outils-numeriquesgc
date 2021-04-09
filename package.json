@@ -27,7 +27,7 @@
     "glob": "^7.1.6",
     "markdown-link-check": "^3.8.6",
     "markdownlint-cli": "^0.27.1",
-    "vnu-jar": "^21.2.5"
+    "vnu-jar": "^21.4.9"
   },
   "dependencies": {}
 }
