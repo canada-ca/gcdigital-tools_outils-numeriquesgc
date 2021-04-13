@@ -36,7 +36,6 @@ Provides practical tools and guidance to assist the Government of Canada in digi
 
 - [How should I ensure my project meets GC EARB requirements? (draft)](https://canada-ca.github.io/gcdigital-tools_outils-numeriquesgc/views-vues/gc-earb-ceai/en/gc-earb.html)
 
-
 # Outils NumériqueGC (ébauche)
 
 ([Version du site web de l'aperçu du guide numérique](https://canada-ca.github.io/gcdigital-tools_outils-numeriquesgc/fr/apercu.html))
