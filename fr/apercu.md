@@ -34,7 +34,7 @@ Les outils numérique du gouvernement du Canada est disponible sous la [licence 
 </section>
 
 <section class="dpgn-overview-end">
- 
+
 #### Approche de mise en œuvre
 
 L'approche du développement et de la diffusion des outils numériqueGC sera similaire à celle de la Boîte à outils de l'expérience Web et de HTML5, où les outils numériqueGC évolue constamment sur GitHub et où des clichés stables de ce travail sont publiés sous forme de versions officielles sur Canada.ca. Cela permet au guide numérique d'être agile et de s'améliorer constamment sur GitHub tout en offrant une version stable à travers Canada.ca sur laquelle on peut compter pour obtenir des conseils.
