@@ -2,7 +2,7 @@
 [Français](#user-content-guide-numérique-du-gouvernement-du-canada-ébauche)
 <!-- markdownlint-enable MD041 -->
 
-# GCDigital Tools 
+# GCDigital Tools
 
 ([Website version of the GCDigital Tools](https://canada-ca.github.io/gcdigital-tools_outils-numeriquesgc/en/overview.html))
 
