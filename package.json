@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/canada-ca/gcdigital-tools_outils-numeriquesgc#readme",
   "devDependencies": {
-    "chalk": "^4.1.0",
+    "chalk": "^4.1.1",
     "eslint": "^7.25.0",
     "glob": "^7.1.6",
     "markdown-link-check": "^3.8.7",
