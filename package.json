@@ -24,7 +24,7 @@
   "devDependencies": {
     "chalk": "^4.1.0",
     "eslint": "^7.25.0",
-    "glob": "^7.1.6",
+    "glob": "^7.1.7",
     "markdown-link-check": "^3.8.7",
     "markdownlint-cli": "^0.27.1",
     "vnu-jar": "^21.4.9"
