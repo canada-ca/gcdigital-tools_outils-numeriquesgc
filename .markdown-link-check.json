@@ -17,6 +17,9 @@
     },
     {
       "pattern": "http://thegoodproject.org/"
+    },
+    {
+      "pattern": "https://references.modernisation.gouv.fr"
     }
   ],
   "replacementPatterns": [
