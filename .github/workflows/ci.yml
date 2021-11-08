@@ -32,5 +32,8 @@ jobs:
       - name: Install NPM dependencies
         run: npm ci
 
-      - name: Run test
-        run: npm test
+      - name: Run HTML validator
+        run: npm run vnu-jar
+
+      - name: Test links
+        run: npm run link-check
