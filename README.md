@@ -1,5 +1,5 @@
 <!-- markdownlint-disable MD041 -->
-[Français](#user-content-guide-numérique-du-gouvernement-du-canada-ébauche)
+[Français](#outils-numériquegc-ébauche)
 <!-- markdownlint-enable MD041 -->
 
 # GCDigital Tools
