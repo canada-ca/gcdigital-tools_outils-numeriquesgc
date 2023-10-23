@@ -23,7 +23,7 @@
   "homepage": "https://github.com/canada-ca/gcdigital-tools_outils-numeriquesgc#readme",
   "devDependencies": {
     "chalk": "^4.1.0",
-    "eslint": "^8.37.0",
+    "eslint": "^8.52.0",
     "glob": "^9.3.4",
     "markdown-link-check": "^3.11.2",
     "markdownlint-cli": "^0.33.0",
